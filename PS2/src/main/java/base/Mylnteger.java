@@ -10,7 +10,6 @@ public class Mylnteger {
 
 	}
 
-	
 
 	public int getiValue(){
 
